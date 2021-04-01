@@ -1,3 +1,7 @@
 $("button").click(function(){
-    $("input").val("jeanvaljean@lesmiserables.com");
+    $("input").change(function () {
+        console.log($(this).val())
+    })
 });
+
+

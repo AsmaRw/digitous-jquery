@@ -1,4 +1,4 @@
-$("button").click(function  displaySecretText(){
+$("button").click(function(){
     $("#text").toggle(function() {
         console.log("konexio");
       });

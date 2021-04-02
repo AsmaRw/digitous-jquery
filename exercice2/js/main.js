@@ -3,4 +3,4 @@ $("div").show(function(){
         height: '500px',
         width: '500px'
     })
-});
+})

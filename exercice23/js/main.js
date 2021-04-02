@@ -3,6 +3,6 @@ $("button").click(function(){
         right: '0px',
         bottom: '0px'
     }, 1000, function() { 
-      console.log("animation terminée !");
-    });
-});
+      console.log("animation terminée !")
+    })
+})
